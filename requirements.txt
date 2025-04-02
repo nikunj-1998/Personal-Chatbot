@@ -1,0 +1,8 @@
+pdfplumber 
+python-docx 
+python-pptx 
+faiss-cpu 
+sentence-transformers 
+openai 
+gradio
+huggingface_hub
